@@ -5,5 +5,16 @@
     "iv": "nJ56mqU9Tbbluksm",
     "data": "nJA/yi8TYZOFdV+A9Wk97x1a6yjdIWRToTyTwxG0BD5ktd2aZ+W18HdvqoVjgBRLNaJu9mv6uwz86jki2r93ASkqoxHuQIzFSgZIZyUHWw=="
   },
-  "entries": []
+  "entries": [
+    {
+      "id": "pw-0u475g1t5t",
+      "label": "Password 1",
+      "added": "2026-10-09",
+      "device": "Windows",
+      "iterations": 600000,
+      "salt": "F1Y808+2+Hx5f3U84Kxl5w==",
+      "iv": "V2tfOstPKxwWAMr1",
+      "data": "vgseJDVH63JuTdr0cJs0ypf1JVClzgdzaovOOWc/j2VHsEJB4c4YL+665KRd8oTM/dBFax9VZf0EVjB/rmDWSHSKNj0rLvTYBztYKiRmvTDdmLE379ubn/beMvpfNLzxb64SKxDCeB8ZErZ3XZOfTN/SbXX+7MQq/2Fw8zfjxdY5mDrMpf3n+wnKoEPW/tHi3Nswf697Ei6/v0nNG/FWM6mM4gM//FvKIWGW4YbjDGZQ9qDKVhWg"
+    }
+  ]
 }
