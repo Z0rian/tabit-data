@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "note": "TabIt sign-in. Each entry is the sync key encrypted with one password; it only opens with that password. Manage them in TabIt under Settings → Sync.",
+  "owner": {
+    "iv": "nJ56mqU9Tbbluksm",
+    "data": "nJA/yi8TYZOFdV+A9Wk97x1a6yjdIWRToTyTwxG0BD5ktd2aZ+W18HdvqoVjgBRLNaJu9mv6uwz86jki2r93ASkqoxHuQIzFSgZIZyUHWw=="
+  },
+  "entries": []
+}
